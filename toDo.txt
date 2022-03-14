@@ -1,6 +1,8 @@
--dodac wyjście z aplikacji
 -zapewnić nie wykrzaczanie sie po złym znaku
 -zrobic wlasne wordle
     -zrobić aby grał sam
 
 -aby dawał sugestie słów bazowane na ilosci liter
+
+-naprawic blad w z
+-sprawic aby pokazywaly sie slowa z dwoma takimi samymi literami w DM
